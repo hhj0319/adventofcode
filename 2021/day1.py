@@ -10,7 +10,7 @@ with open('day1_input.txt','r') as file:
         curr = file.readline()
 
 # ----------------------------------
-# Part 2
+# Part. 2
 with open('day1_input.txt','r') as file:
     win_1 = file.readline()
     win_2 = file.readline()
