@@ -9,7 +9,6 @@ with open('day1_input.txt','r') as file:
         pre = curr
         curr = file.readline()
 
-print(count)
 # -----------------------------------
 # Part 2
 with open('day1_input.txt','r') as file:
